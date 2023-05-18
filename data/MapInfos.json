@@ -1,19 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Debug rooms","order":1,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":2,"expanded":true,"name":"To do","order":2,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":false,"name":"WIP","order":14,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":false,"name":"Finished!","order":15,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":false,"name":"Cutscenes","order":16,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":6,"expanded":true,"name":"\"town\" 1","order":3,"parentId":2,"scrollX":0,"scrollY":0},
-{"id":7,"expanded":true,"name":"\"town\" 2","order":9,"parentId":2,"scrollX":0,"scrollY":0},
-{"id":8,"expanded":true,"name":"\"dungeon\" 1","order":4,"parentId":6,"scrollX":0,"scrollY":0},
-{"id":9,"expanded":false,"name":"dungeon 2","order":10,"parentId":7,"scrollX":0,"scrollY":0},
-{"id":10,"expanded":true,"name":"Intro","order":11,"parentId":2,"scrollX":0,"scrollY":0},
-{"id":11,"expanded":false,"name":"Ending","order":12,"parentId":2,"scrollX":0,"scrollY":0},
-{"id":12,"expanded":false,"name":"Nexo","order":13,"parentId":2,"scrollX":819,"scrollY":461},
-{"id":13,"expanded":false,"name":"First","order":5,"parentId":8,"scrollX":0,"scrollY":0},
-{"id":14,"expanded":false,"name":"Addition","order":6,"parentId":8,"scrollX":0,"scrollY":0},
-{"id":15,"expanded":false,"name":"Twist","order":7,"parentId":8,"scrollX":0,"scrollY":0},
-{"id":16,"expanded":false,"name":"End","order":8,"parentId":8,"scrollX":0,"scrollY":0}
+{"id":1,"expanded":true,"name":"test room","order":1,"parentId":0,"scrollX":811,"scrollY":555},
+{"id":2,"expanded":true,"name":"beninggin","order":3,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"city","order":4,"parentId":1,"scrollX":2553,"scrollY":773},
+{"id":4,"expanded":false,"name":"TITLE","order":2,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":true,"name":"supermarket","order":6,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":false,"name":"alley","order":5,"parentId":3,"scrollX":819,"scrollY":453},
+{"id":7,"expanded":false,"name":"lounge","order":7,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"ENDING","order":8,"parentId":1,"scrollX":819,"scrollY":461}
 ]
